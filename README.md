@@ -42,8 +42,8 @@ el primero hace referencia a la búsqueda de películas con el verbo GET y la se
 
 Nota, una vez escribas el nombre de la película, para realizar la búsqueda puedes darle a la tecla enter o en el botón "Search".
 
-<img width="1680" alt="Ejemplo de búsqueda" src="PantallaInicioTaller3.png">
-<img width="1680" alt="Ejemplo de búsqueda" src="BusquedaTaller3.png">
+<img width="1680" alt="Ejemplo de búsqueda" src="Img/PantallaInicioTaller3.png">
+<img width="1680" alt="Ejemplo de búsqueda" src="Img/BusquedaTaller3.png">
 
 ## Corriendo los tests
 
@@ -64,7 +64,7 @@ La prueba que se realizó para verificar el funcionamiento de nuestra versión d
 
 Creación de la clase donde se crearon los servicios REST GET y POST
 
-<img width="500" alt="Ejemplo de búsqueda" src="GETPOSTSpring.png">
+<img width="500" alt="Ejemplo de búsqueda" src="Img/GETPOSTSpring.png">
 
 En la implementación, al igual que en spring, creamos el método findMovieByName
 Un método que responderá peticiones GET realizadas a la ruta /movie,
@@ -74,11 +74,11 @@ con el método llamado saveMovie
 Para probar su funcionamiento se usaron dos formularios donde cada uno realiza
 peticiones GET y POST respectivamente. 
 
-<img width="500" alt="Ejemplo de búsqueda" src="PagTaller4.png">
+<img width="500" alt="Ejemplo de búsqueda" src="Img/PagTaller4.png">
 
 Y aquí está el log de las peticiones para validar su funcionamiento
 
-<img width="500" alt="Ejemplo de búsqueda" src="RespuestaTaller4.png">
+<img width="500" alt="Ejemplo de búsqueda" src="Img/RespuestaTaller4.png">
 
 ## Documentacion
 
